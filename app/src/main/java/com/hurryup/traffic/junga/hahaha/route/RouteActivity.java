@@ -53,4 +53,9 @@ public class RouteActivity extends AppCompatActivity {
         rv_route_result.setAdapter(new RouteAdapter(this,routeData_list));
 
     }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+    }
 }
