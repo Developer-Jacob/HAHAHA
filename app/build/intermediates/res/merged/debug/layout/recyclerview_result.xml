@@ -9,7 +9,6 @@
         android:id="@+id/iv_transportation"
         android:layout_width="80dp"
         android:layout_height="110dp"
-        android:background="@drawable/image_walk"
         android:layout_alignTop="@+id/tv_Startname"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true" />

@@ -22,7 +22,6 @@
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:id="@+id/iv_route_arrow"
-        android:background="@drawable/image_route_arrow1"
         android:layout_alignTop="@+id/tv_route_startname"
         android:layout_centerHorizontal="true" />
 

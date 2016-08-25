@@ -54,7 +54,6 @@ public class ResultAdapter extends RecyclerView.Adapter<ResultViewHolder>{
         holder.tv_Start.setText(section.getStart_name());
         holder.tv_End.setText(section.getEnd_name());
         holder.tv_Time.setText(section.getTime());
-        holder.iv_Trans.setImageResource(R.drawable.image_walk);//여기
     }
 
     @Override

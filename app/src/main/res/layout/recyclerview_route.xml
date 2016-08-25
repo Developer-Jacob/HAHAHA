@@ -31,7 +31,6 @@
                     android:layout_height="wrap_content"
                     android:id="@+id/tv_route_start"/>
                 <ImageView
-                    android:background="@drawable/image_route_arrow2"
                     android:textSize="30dp"
                     android:layout_width="5dp"
                     android:layout_height="5dp"
